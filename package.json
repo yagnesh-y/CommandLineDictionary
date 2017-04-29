@@ -1,0 +1,18 @@
+{
+  "name": "dict",
+  "version": "1.0.0",
+  "description": "Command line tool for wordnik",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yagnesh",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "./dict": "index.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "superagent": "^3.5.2"
+  }
+}
