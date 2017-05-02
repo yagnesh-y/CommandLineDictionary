@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "bluebird": "^3.5.0",
+    "prompt": "^1.0.0",
     "superagent": "^3.5.2"
   }
 }
